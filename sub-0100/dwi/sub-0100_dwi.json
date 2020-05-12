@@ -1,0 +1,32 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "WIPdwi_acq-32b1000SENSE",
+    "SeriesNumber": 6,
+    "AcquisitionNumber": 6,
+    "ImageComments": "PIOP2",
+    "PhilipsRescaleSlope": 3.95409,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.0256939,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.08599,
+    "RepetitionTime": 7.38428,
+    "ReconMatrixPE": 112,
+    "ImageOrientationPatientDICOM": [
+        0.999785,
+        -0.0136789,
+        0.0155912,
+        0.0129134,
+        0.998755,
+        0.0481835
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20181125  GCC6.3.0",
+    "BidsifyVersion": "0.3.5",
+    "FlipAngle": 90,
+    "WaterFatShift": 18.927,
+    "ParallelAcquisitionTechnique": "SENSE",
+    "ParallelReductionFactorInPlane": 2,
+    "PhaseEncodingDirection": "j"
+}

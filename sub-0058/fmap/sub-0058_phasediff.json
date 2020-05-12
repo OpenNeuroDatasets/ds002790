@@ -1,0 +1,38 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "WIPB0SENSE",
+    "SeriesNumber": 5,
+    "AcquisitionNumber": 5,
+    "ImageComments": "PIOP2",
+    "PhilipsRescaleSlope": 0.04884,
+    "PhilipsRescaleIntercept": -100,
+    "PhilipsScaleSlope": 20.475,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.003,
+    "RepetitionTime": 0.010732,
+    "ReconMatrixPE": 128,
+    "ImageOrientationPatientDICOM": [
+        0.999928,
+        0.0031812,
+        -0.0115568,
+        -0.0033159,
+        0.999927,
+        -0.0116552
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20181125  GCC6.3.0",
+    "BidsifyVersion": "0.3.5",
+    "id": "thisisnotanid",
+    "EchoTime1": 0.003,
+    "EchoTime2": 0.008,
+    "WaterFatShift": 1.134,
+    "FlipAngle": 8,
+    "IntendedFor": [
+        "func/sub-0058_task-workingmemory_acq-seq_bold.nii.gz",
+        "func/sub-0058_task-restingstate_acq-seq_bold.nii.gz",
+        "func/sub-0058_task-emomatching_acq-seq_bold.nii.gz",
+        "func/sub-0058_task-stopsignal_acq-seq_bold.nii.gz"
+    ]
+}
